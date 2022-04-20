@@ -1,0 +1,79 @@
+.background{
+    float: left;
+    border-radius: 25px;
+    background-color: rgb(43, 37, 37);
+    width: 200px;
+    height: 800px;
+    margin-right: 20px;
+}
+.icon{
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.getjob {
+    padding-left: 10px;
+    text-decoration: none;
+}
+.trangchu{
+    padding-top: 10px;
+}
+.yeucau{
+    margin-top: 10px;
+}
+.yeucau2{
+    margin-top: 10px;
+}
+.tuyendung{
+    margin-top: 10px;
+}
+.baocao{
+    margin-top: 10px;
+}
+.diadiem{
+    margin-top: 10px;
+}
+.side2{
+    margin-top: 20px;
+    margin-left: 20px;
+    float: left;
+}
+.form-check{
+    margin-left:150px;
+}
+#inlineRadio3{
+    margin-left: 40px;
+}
+.diadiemform{
+    text-align: center;
+}
+.form1{
+    margin-left: 40px;
+}
+
+.side3{
+    margin-top: 20px;
+    float: left;
+}
+#colFormLabel{
+    width: 400px;
+}
+#selectform{
+    width: 400px;
+}
+.twobutton{
+    margin-left: 300px;
+}
+#btndiadiem{
+    margin-left: 20px;
+}
+
+#imganh7{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    
+}
+#iconbell{
+    margin-left: 800px;
+}
